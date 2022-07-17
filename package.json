@@ -1,0 +1,23 @@
+{
+  "name": "sms-proxy-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "debug": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Song1/SMS-Proxy-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-Song1/SMS-Proxy-Server/issues"
+  },
+  "homepage": "https://github.com/J-Song1/SMS-Proxy-Server#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "twilio": "^3.79.0"
+  }
+}
